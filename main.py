@@ -123,4 +123,4 @@ async def on_message(message):
 
     await bot.process_commands(message)
 
-bot.run('ODE4ODcwNTA0ODI3NTE5MDA2.YEeWlg.JFv4Gln2c6NLFYv-2k71LQTlBFg')
+bot.run('NO-LONGER-HERE')
